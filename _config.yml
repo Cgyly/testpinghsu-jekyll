@@ -1,6 +1,6 @@
-name: 
-author: 
-url: 
+name: 陈豆豆之家
+author: 陈哈哈
+url: https://cgyly.github.io/testpinghsu-jekyll/
 baseurl: 
 resume_site: 
 description: 
@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
-    repo : 
-    owner : 
-    admin : 
+    clientID : ebe0a57efec564c60e2c
+    clientSecret : 7d484241f9316b10fe9b36ea23638d3419676ca1
+    repo : pages
+    owner : Cgyly
+    admin :  [ly,cgy]
